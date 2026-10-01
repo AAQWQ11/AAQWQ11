@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a university student from China.
+I am a [university](https://www.stdu.edu.cn/) student from China.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAQWQ11&show_icons=true&include_all_commits=true&rank_icon=default)
 - 🔭 I’m currently working on C++ Projects
